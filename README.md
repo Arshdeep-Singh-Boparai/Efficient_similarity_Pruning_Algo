@@ -5,5 +5,5 @@ This is a repository containing scripts to prune CNNs using similarity-based pru
 
 # A brief overview of various Scripts
 
-1) 
+1) Efficient_Similarity_Pruning.py
 
