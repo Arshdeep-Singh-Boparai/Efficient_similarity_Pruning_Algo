@@ -9,6 +9,8 @@ This is a repository containing scripts to prune CNNs using similarity-based pru
 
 2) Plot_generation.py :  To generate Figures in the result and analysis section.
 
+3) Fine_tuning_DCASE21_Net.py:  Given important filter indexes for all layers, Obtaining a pruned network and peforming fine-tuning.
+
 # Folders
 
 1) important_filter_indexes: The important set of filters obtained using "Efficient_Similarity_Pruning.py", l1-norm based method and GM pruning method.
