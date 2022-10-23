@@ -7,3 +7,4 @@ This is a repository containing scripts to prune CNNs using similarity-based pru
 
 1) Efficient_Similarity_Pruning.py
 
+2) Plot_generation.py
