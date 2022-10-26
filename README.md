@@ -15,7 +15,7 @@ This is a repository containing scripts to prune CNNs using similarity-based pru
 
 # Folders
 
-1) important_filter_indexes: The important set of filters obtained using "Efficient_Similarity_Pruning.py", l1-norm based method and GM pruning method.
+1) important_filter_indexes for VGGish_Net and DCASE21_Net: The important set of filters obtained using "Efficient_Similarity_Pruning.py", l1-norm based method and GM pruning method..
 
 
 # Links
