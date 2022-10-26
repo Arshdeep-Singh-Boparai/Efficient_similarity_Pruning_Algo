@@ -18,12 +18,12 @@ import matplotlib.pyplot as plt
 
 #%% load pre-trained weights
 
-W_dcas=list(np.load('/home/arshdeep/Pruning/SPL/VGGish_applied_acoustics/cosine_similarity/Baseline_65/best_weights_VGGish.npy',allow_pickle=True))
+W_dcas=list(np.load('~/Baseline_65/best_weights_VGGish.npy',allow_pickle=True))
  # extract pre-trained layer wise weights.
 #%% Please note that the indexes {0,2,4,6,8,10} in "W_dcas" represent first to sixth convolutional layer in VGGish_Net.
 
 
-# W_dcas = list(np.load('/home/arshdeep/Pruning/SPL/ICLR_anonymize_code_test/DCASE21_Net/unpruned_model_DCASE21_Net_48.58/unpruned_model_weights.npy',allow_pickle=True))
+# W_dcas = list(np.load('~/DCASE21_Net/unpruned_model_DCASE21_Net_48.58/unpruned_model_weights.npy',allow_pickle=True))
 # Rank-1 approximation of a given data.
 #%% Please note that the indexes {0,6,12} in "W_dcas" represent first, second and third convolutional layer in DCASE 2021 TASK1A baseline network.
 
