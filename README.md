@@ -1,5 +1,8 @@
 # Efficient_similarity_Pruning_Algo
-To be updated soon...
+
+This is a repo of our following paper,
+
+Singh, Arshdeep, and Mark D. Plumbley. "Efficient Similarity-Based Passive Filter Pruning for Compressing CNNS." ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023.
 
 This is a repository containing scripts to prune CNNs using similarity-based pruning algorithm in a fast manner. 
 
